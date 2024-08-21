@@ -1,4 +1,4 @@
-**Abstract **
+**Abstract**
 
 This study explores the concept of handwriting recognition through the use of image processing techniques. 
 Handwriting recognition refers to the capability of devices such as computers and smartphones to identify 
@@ -18,7 +18,7 @@ intelligence and machine learning. These advancements enable more accurate and r
 diverse handwriting styles and languages, expanding the usability and functionality of the technology across 
 different platforms and applications.
 
-**Introduction **
+**Introduction**
 
 Handwriting recognition refers to the capability of computers and mobile devices to interpret handwritten 
 input as text. In the modern mobile landscape, this technology is frequently used for direct input on 
